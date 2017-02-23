@@ -1,7 +1,7 @@
 import java.io.File;
 import java.util.ArrayList;
 import java.util.List;
-import org.broadinstitute.sting.gatk.walkers.bqsr.BQSRGatherer;
+import org.broadinstitute.gatk.engine.recalibration.BQSRGatherer;
 
 public class BQSRGathererMain{
     /* * args: outputFile inputFiles */
